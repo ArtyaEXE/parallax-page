@@ -1,4 +1,5 @@
 Parallax Scrolling Page
+
 This page demonstrates parallax scrolling effect using GSAP (GreenSock Animation Platform) library.
 
 Getting Started
